@@ -4,7 +4,7 @@
  *
  * 1) Cole abaixo o URL da implementação (termina em /exec)
  * 2) Inclua no index.html ANTES do <script> principal:
- *      <script src="api.js">https://script.google.com/macros/s/AKfycbyb6a7nDusqXy5JRxpRheA_pb3yYYCpqTqeZzmGo3Fmqga-YBPW7h2-S1rwGtVX99FQYw/exec</script>
+ *      <script src="api.js"></script>
  */
 (function () {
   'use strict';
